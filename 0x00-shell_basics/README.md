@@ -13,4 +13,6 @@
 
 7. The script on this file (6-firstdirectory)  creates a directory named my_first_directory in the /tmp/ directory.
 
+8. The script on this file (7-movethatfile) moves the file betty from /tmp/ to /tmp/my_first_directory.
+
 
