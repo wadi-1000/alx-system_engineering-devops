@@ -7,4 +7,6 @@
 
 4. The script on this file (3-listfiles) lists all the content on this directory in long format.
 
-5. The script on this file (4-listmorefiles) lists all hidden files starting with (.) in the current directory.
+5. The script on this file (4-listmorefiles) lists all hidden files starting with (.) in long format in the current directory.
+
+6. The script on this file (The script on this file (4-listmorefiles) lists all hidden files starting with (.) in long format in the current directory.) lists all hidden files starting with (.) in long format and with their id's in the current directory.
