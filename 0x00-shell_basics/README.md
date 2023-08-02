@@ -19,4 +19,8 @@
 
 10. The script on this file (9-firstdirdeletion) deletes the directory my_first_directory/ in /tmp.
 
-11. The script on thid file (10-back) changes the working directory to the previous one.
+11. The script on this file (10-back) changes the working directory to the previous one.
+
+12. The script on this file (11-lists) lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
+
+13. The script in this file (12-file_type) prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script.
