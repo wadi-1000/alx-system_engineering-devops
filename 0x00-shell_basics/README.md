@@ -10,3 +10,7 @@
 5. The script on this file (4-listmorefiles) lists all hidden files starting with (.) in long format in the current directory.
 
 6. The script on this file (The script on this file (4-listmorefiles) lists all hidden files starting with (.) in long format in the current directory.) lists all hidden files starting with (.) in long format and with their id's in the current directory.
+
+7. The script on this file (6-firstdirectory)  creates a directory named my_first_directory in the /tmp/ directory.
+
+
