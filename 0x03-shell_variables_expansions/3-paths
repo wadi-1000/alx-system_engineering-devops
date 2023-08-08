@@ -1,0 +1,2 @@
+#!/bin/bash
+ehco $((` echo $Path | grep -0 ":/" | wc -1 ` +1))
